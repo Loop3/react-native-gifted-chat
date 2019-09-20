@@ -38,7 +38,7 @@ const styles = {
       alignItems: 'flex-start',
     },
     wrapper: {
-      borderRadius: 8,
+      borderRadius: 15,
       backgroundColor: Color.leftBubbleBackground,
       marginRight: 60,
       minHeight: 20,
@@ -61,7 +61,7 @@ const styles = {
       alignItems: 'flex-end',
     },
     wrapper: {
-      borderRadius: 8,
+      borderRadius: 15,
       backgroundColor: Color.defaultBlue,
       marginLeft: 60,
       minHeight: 20,
